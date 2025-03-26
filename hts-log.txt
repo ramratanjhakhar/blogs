@@ -1,0 +1,23 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Wed, 26 Mar 2025 15:09:28 at https://jeffreytse.github.io/jekyll-theme-yat/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://jeffreytse.github.io/jekyll-theme-yat/ -O "/home/troo/websites/jakyll theme" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:11:14	Error: 	"Not Found" (404) at link https://jeffreytse.github.io/jekyll-theme-yat/markdown/2017/06/10/local-doc.html (from https://jeffreytse.github.io/jekyll-theme-yat/markdown/2017/06/10/quick-mardown-example.html)
+15:11:39	Warning: 	Found for www.plantuml.com/robots.txt
+15:11:39	Warning: 	File has moved from www.plantuml.com/robots.txt to http://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa700003
+15:11:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
+15:12:00	Warning: 	Retry after error -5 (Unable to get server's address: Name or service not known) at link https://polyfill.io/v3/polyfill.min.js?features=es6 (from https://jeffreytse.github.io/jekyll-theme-yat/)
+15:12:00	Warning: 	HTML file (23111 bytes) retransferred due to lack of cache: https://jeffreytse.github.io/jekyll-theme-yat/about.html
+15:12:01	Warning: 	HTML file (28592 bytes) retransferred due to lack of cache: https://jeffreytse.github.io/jekyll-theme-yat/jekyll/2015/01/01/welcome-to-jekyll.html
+15:12:02	Warning: 	HTML file (18947 bytes) retransferred due to lack of cache: https://jeffreytse.github.io/jekyll-theme-yat/markdown/2017/06/10/local-doc.html
+15:12:03	Error: 	"Not Found" (404) at link https://jeffreytse.github.io/jekyll-theme-yat/markdown/2017/06/10/local-doc.html (from https://jeffreytse.github.io/jekyll-theme-yat/markdown/2017/06/10/quick-mardown-example.html)
+15:12:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://mermaid.ink/svg/eyJjb2RlIjoiZ3JhcGggTFJcbmNvbmN1cnJlbnQuZnV0dXJlcyAtLS0-fCBvbiB0b3Agb2YgfCB0aHJlYWRpbmdcbmNvbmN1cnJlbnQuZnV0dXJlcyAtLS0-fCBvbiB0b3Agb2YgfCBtdWx0aXByb2Nlc3NpbmdcbnRocmVhZGluZyAtLS0-fCBvbiB0b3Agb2YgfCBcXF90aHJlYWRcbmNsaWNrIGNvbmN1cnJlbnQuZnV0dXJlcyBcImh0dHBzOi8vZG9jcy5weXRob24ub3JnLzMuOS9saWJyYXJ5L2NvbmN1cnJlbnQuZnV0dXJlcy5odG1sXCIgX2JsYW5rIiwibWVybWFpZCI6bnVsbH0
+15:12:06	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://polyfill.io/v3/polyfill.min.js?features=es6 (from https://jeffreytse.github.io/jekyll-theme-yat/)
+15:12:06	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://polyfill.io/v3/polyfill.min.js?features=es6 (from https://jeffreytse.github.io/jekyll-theme-yat/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 38 seconds : 88 links scanned, 94 files written (52063315 bytes overall) [26145967 bytes received at 165480 bytes/sec], 2660813 bytes transferred using HTTP compression in 50 files, ratio 25%, 1.7 requests per connection
+(3 errors, 9 warnings, 0 messages)

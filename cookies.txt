@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	4P7Kivpy2TRxNo9AxuuAEh7rgNPZHjJ7uE35nE3b6D9uGFwEGAF%2Fs%2FQXrqxCUwaD8py1SBrYbSDrWmz%2FWMajUJ1FBzgxLV89tUJIcULed8Bon7%2BRnLu31Qkixcci%2FN6bZYFB9YrBgD%2B46Rg5P4Cyxdr2cGlTZQB5YOERFwa8WqXbUczyRkr5j1aZy36Eu1qDuxZtnjgMACGdOmOBPFG%2Bf2UmP5ek5MecRaGv3gMkIQrtw6Sqlqmz3HwUGsUMZEsd6LwMkec%2B6zpP1BfOqtP7QQ%3D%3D--qGNA4vGT%2FFkXR2ES--Uw9fOZpfEVrPQr7oC8X8ew%3D%3D
+github.com	TRUE	/	FALSE	1999999999	_octo	GH1.1.1805407528.1742982016
+github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+plantuml.com	TRUE	/	FALSE	1999999999	ezoictest	stable
+
